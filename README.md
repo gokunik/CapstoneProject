@@ -6,7 +6,6 @@
 
 - Role - Project lead and frontend developer
 - Tech stack I worked on - HTML, CSS, Bootstrap, Javascript, HandlebarsJs. 
-- Team size - 5
 
 - Contributions 👇
   - Created the project plan
